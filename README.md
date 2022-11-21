@@ -3,4 +3,4 @@ This repository provides an executable program, which can customize the communic
 
 
 
-![](./display.png)
+![](./images/display.png)
