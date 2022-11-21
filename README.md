@@ -3,4 +3,4 @@ This repository provides an executable program, which can customize the communic
 
 
 
-<img src="display.png" style="zoom:75%;" />
+![](./display.png)
